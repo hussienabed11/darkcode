@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&family=Handjet:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Beiruti:wght@200..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+  
+}
+body{
+    background-color:#115866fb;
+}
+.navbar{
+    background-color:#51afc242;
+    font-family: "Roboto", sans-serif;
+   
+}
+.logo{
+    width: 100px;
+}
+
+
+video{
+    margin-top: 10rem;
+    width: 95%;
+    border-radius: 10px;
+    box-shadow: 5px 2px 2px   rgb(68, 190, 206);
+    box-shadow: 5px 2px 2px   rgb(68, 190, 206);
+  
+}
+
+span p {
+    font-weight: bold;
+    font-family: "Cairo", sans-serif;
+    font-optical-sizing: auto;
+    color:#FFFFFF;
+    font-size: 25px;
+    direction: rtl;
+    position: relative;
+    top: 3pc;
+}
+.hed p{
+    color: #F0F0F0;
+    font-size: 25px;
+    font-family: "Cairo", sans-serif;
+    margin-top: 5rem;
+    direction: rtl;
+}
+.btn{
+    background-color: #06c0e6bd;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    padding: 20px ;
+    border: none;
+    color: #FFFFFF;
+}
+.enorl{
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+
+}
+.enorl button{
+    font-family: "Roboto", sans-serif; 
+}
+.hed{
+  align-items: center;
+  margin-top: 20px;
+}
+.offer{
+   font-size: 22px;
+   color: rgb(119, 212, 235);
+   font-family: "Roboto", sans-serif;
+
+}
+

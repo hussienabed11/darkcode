@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&family=Handjet:wght@100..900&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:#115866fb;
+}
+.navbar{
+    background-color:#51afc242;
+       font-family: "Roboto", sans-serif;
+   
+}
+.logo{
+    width: 100px;
+}
+
+.content{
+    background-color:#6197a15d;
+    text-align: center;
+}
+.content h1{
+    padding: 25px;
+      color: rgb(0, 225, 255);
+      font-size: 65px;
+    margin-top: 30px;
+    
+}
+.social{
+    text-align: center;   
+}
+.social a{
+    color: aliceblue;
+    transition: .5s;
+    
+}
+.social a:hover{
+    color: rgb(0, 225, 255);
+
+}
+form{
+    font-size: 30px;
+}
+p{
+    color: #fff;
+    font-size: 25px;
+    font-family: "Cairo", sans-serif;
+}
